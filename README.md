@@ -1,14 +1,14 @@
 # 🖨️ E-Printer - Campus Digital Printing Solution
 
 <div align="center">
-  <img src="https://github.com/raj-deshmukh6403/e-Printer/blob/main/client/public/raj.jpg" alt="E-Printer Logo" width="100" height="100" style="border-radius: 50%;">
+  <img src="https://github.com/Siddheshc09/e-Printer/blob/main/client/public/Sid.jpg" alt="E-Printer Logo" width="100" height="100" style="border-radius: 50%;">
   
   <h3>Revolutionizing campus printing services with seamless digital experiences</h3>
   
   [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://e-printer-rouge.vercel.app)
-  [![GitHub Issues](https://img.shields.io/github/issues/raj-deshmukh6403/e-Printer?style=for-the-badge)](https://github.com/raj-deshmukh6403/e-Printer/issues)
-  [![GitHub Forks](https://img.shields.io/github/forks/raj-deshmukh6403/e-Printer?style=for-the-badge)](https://github.com/raj-deshmukh6403/e-Printer/network)
-  [![GitHub Stars](https://img.shields.io/github/stars/raj-deshmukh6403/e-Printer?style=for-the-badge)](https://github.com/raj-deshmukh6403/e-Printer/stargazers)
+  [![GitHub Issues](https://img.shields.io/github/issues/Siddheshc09/e-Printer?style=for-the-badge)](https://github.com/Siddheshc09/e-Printer/issues)
+  [![GitHub Forks](https://img.shields.io/github/forks/Siddheshc09/e-Printer?style=for-the-badge)](https://github.com/Siddheshc09/e-Printer/network)
+  [![GitHub Stars](https://img.shields.io/github/stars/Siddheshc09/e-Printer?style=for-the-badge)](https://github.com/Siddheshc09/e-Printer/stargazers)
 </div>
 
 ---
@@ -175,7 +175,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/raj-deshmukh6403/e-Printer.git
+   git clone https://github.com/Siddheshc09/e-Printer.git
    cd e-Printer
    ```
 
@@ -290,19 +290,19 @@ Make sure you have the following installed:
 <details>
 <summary>Click to view screenshots</summary>
 
-![User Dashboard](https://github.com/raj-deshmukh6403/e-Printer/blob/main/client/public/user-dashboard.png)
+![User Dashboard](https://github.com/Siddheshc09/e-Printer/blob/main/client/public/user-dashboard.png)
 *Clean and intuitive user dashboard with quick access to all features*
 
-![User Profile](https://github.com/raj-deshmukh6403/e-Printer/blob/main/client/public/profile.png)
+![User Profile](https://github.com/Siddheshc09/e-Printer/blob/main/client/public/profile.png)
 *User Profile Page with Edit Options*
 
-![Print Form](https://github.com/raj-deshmukh6403/e-Printer/blob/main/client/public/print-form.png)
+![Print Form](https://github.com/Siddheshc09/e-Printer/blob/main/client/public/print-form.png)
 *Simple drag-and-drop file upload with real-time preview*
 
-![Payment Page](https://github.com/raj-deshmukh6403/e-Printer/blob/main/client/public/payment.png)
+![Payment Page](https://github.com/Siddheshc09/e-Printer/blob/main/client/public/payment.png)
 *Secure payment integration with multiple payment options*
 
-![Payment Page](https://github.com/raj-deshmukh6403/e-Printer/blob/main/client/public/payment1.png)
+![Payment Page](https://github.com/Siddheshc09/e-Printer/blob/main/client/public/payment1.png)
 *Razorpay payment integration with multiple payment options*
 
 </details>
@@ -311,10 +311,10 @@ Make sure you have the following installed:
 <details>
 <summary>Click to view screenshots</summary>
 
-![Admin Dashboard](https://github.com/raj-deshmukh6403/e-Printer/blob/main/client/public/admin-dashboard.png)
+![Admin Dashboard](https://github.com/Siddheshc09/e-Printer/blob/main/client/public/admin-dashboard.png)
 *Comprehensive admin dashboard with analytics and insights*
 
-![Print Queue Management](https://github.com/raj-deshmukh6403/e-Printer/blob/main/client/public/print-queue.png)
+![Print Queue Management](https://github.com/Siddheshc09/e-Printer/blob/main/client/public/print-queue.png)
 *Efficient print queue management with bulk operations*
 
 </details>
@@ -323,7 +323,7 @@ Make sure you have the following installed:
 <details>
 <summary>Click to view screenshots</summary>
 
-![Mobile Dashboard](https://github.com/raj-deshmukh6403/e-Printer/blob/main/client/public/mobile-view.jpg)
+![Mobile Dashboard](https://github.com/Siddheshc09/e-Printer/blob/main/client/public/mobile-view.jpg)
 *Fully responsive design optimized for mobile devices*
 
 </details>
@@ -332,7 +332,7 @@ Make sure you have the following installed:
 <details>
 <summary>Click to view screenshots</summary>
 
-![Print Preview](https://github.com/raj-deshmukh6403/e-Printer/blob/main/client/public/print-form1.png)
+![Print Preview](https://github.com/Siddheshc09/e-Printer/blob/main/client/public/print-form1.png)
 *Real-time document preview with print settings
 
 </details>
@@ -548,7 +548,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ```
 MIT License
 
-Copyright (c) 2024 Rajvardhan Deshmukh
+Copyright (c) 2024 Siddhesh Chavan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -574,9 +574,9 @@ SOFTWARE.
 ## 👨‍💻 Developer
 
 <div align="center">
-  <img src="https://github.com/raj-deshmukh6403/e-Printer/blob/main/client/public/raj.jpg" alt="Rajvardhan Deshmukh" width="150" height="150" style="border-radius: 50%;">
+  <img src="https://github.com/Siddheshc09/e-Printer/blob/main/client/public/Sid.jpg" alt="Siddhesh Chavan" width="150" height="150" style="border-radius: 50%;">
   
-  ### **Rajvardhan Deshmukh**
+  ### **Siddhesh Chavan**
   *Full Stack Developer & Final Year IT Student at PICT*
   
   > *"Passionate about creating seamless digital experiences that solve real-world problems. I built E-Printer to revolutionize campus printing services and make students' lives easier."*
@@ -587,7 +587,7 @@ SOFTWARE.
 - 🎓 **Education**: Final Year IT Student at PICT, Pune
 - 💼 **Experience**: 2+ years in Web Development
 - 🌍 **Location**: Pune, Maharashtra, India
-- 💡 **Expertise**: Full Stack Development,System Architecture
+- 💡 **Expertise**: Full Stack Development
 
 ### 🛠️ Technical Skills
 
@@ -599,8 +599,6 @@ SOFTWARE.
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -608,12 +606,9 @@ SOFTWARE.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajvardhanhd6403@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajvardhan-deshmukh-323787229/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raj-deshmukh6403)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rajvardhanhd6403.github.io)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rajvardhan1809)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raj_deshmukh_6403/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddheshchavan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhesh-chavan-5062372a1/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siddheshc09)
 
 </div>
 
@@ -636,9 +631,9 @@ SOFTWARE.
   
   ### ⭐ If you found this project helpful, please give it a star!
   
-  ![Star Badge](https://img.shields.io/github/stars/raj-deshmukh6403/e-Printer?style=social)
+  ![Star Badge](https://img.shields.io/github/stars/Siddheshc09/e-Printer?style=social)
   
-  **Made with ❤️ by [Rajvardhan Deshmukh](https://github.com/raj-deshmukh6403)**
+  **Made with ❤️ by [Siddhesh Chavan](https://github.com/Siddheshc09)**
   
   ---
   
